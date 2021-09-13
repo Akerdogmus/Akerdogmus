@@ -1,5 +1,7 @@
 ### Welcome to Akerdogmus's Vault 👋
 
+🌱 I’m currently learning ROS.
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Akerdogmus&show_icons=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akerdogmus" alt="Akerdogmus" /> </p> 
