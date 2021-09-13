@@ -1,6 +1,6 @@
 ### Welcome to Akerdogmus's Vault 👋
 
-
+⚡ I'm an Electrical&Electronics Engineer and ROS Developer. 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Akerdogmus&show_icons=true">
 
