@@ -8,6 +8,8 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alim-kerem-erdogmus/)
 
+[![](https://img.shields.io/github/followers/Akerdogmus?style=social)](https://www.github.com/Akerdogmus)
+
 **Languages and Systems:**
 
 <code><img height="40" src="https://devnot.com/wp-content/uploads/2020/03/robot-operationg-system.png"></code>
