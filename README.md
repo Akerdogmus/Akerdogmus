@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akerdogmus" alt="Akerdogmus" /> </p> 
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Akerdogmus&show_icons=true">
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alim-kerem-erdogmus/)
 
 
