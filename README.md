@@ -2,18 +2,19 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Akerdogmus&show_icons=true&theme=dark">
 
-⚡ I'm an Electrical&Electronics Engineer and ROS Developer. 
+⚡ I am a robotics enthusiast and a life-long learner. Currently, working on verification&validation for autonomous robotic inspection systems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akerdogmus" alt="Akerdogmus" /> </p> 
+For contact:
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alim-kerem-erdogmus/)
+[![Linkedln_account](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alim-kerem-erdogmus/)
 
 **Languages and Systems:**
 
-<code><img height="20" src="https://devnot.com/wp-content/uploads/2020/03/robot-operationg-system.png"></code>
-<code><img height="20" src="https://www.pngkey.com/png/detail/221-2216011_ros-gazebo-logo.png"></code>
-<code><img height="20" src="https://moveit.ros.org/assets/logo/moveit_logo-white.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Horizontal.png?itok=cFIHFZiP"></code>
+[![ROS](https://img.shields.io/badge/ros-%23434C5E?style=for-the-badge&logo=ros&%2B%2B&labelColor=darkblue&logoColor=white)](https://www.ros.org/)
+[![Linux](https://img.shields.io/badge/linux-%23434C5E?style=for-the-badge&logo=linux&%2B%2B&labelColor=orange&logoColor=black)](https://www.linux.org/)
+[![Python](https://img.shields.io/badge/python-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)](https://www.python.org)
+[![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)](https://www.qt.io)
+[![Docker](https://img.shields.io/badge/docker-%23434C5E?style=for-the-badge&logo=docker&%2B%2B&labelColor=%233776AB&logoColor=white)](https://hub.docker.com/u/akerdogmus)
+[![Unity](https://img.shields.io/badge/unity-%23434C5E?style=for-the-badge&logo=unity&%2B%2B&labelColor=black&logoColor=white)](https://unity.com/)
+[![C#](https://img.shields.io/badge/csharp-%23434C5E?style=for-the-badge&logo=csharp&labelColor=%233776AB&logoColor=white)]()
+</code>
