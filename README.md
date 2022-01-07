@@ -4,9 +4,11 @@
 
 ⚡ I am a robotics enthusiast and a life-long learner. Currently, working on verification&validation for autonomous robotic inspection systems.
 
+
 For contact:
 
 [![Linkedln_account](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alim-kerem-erdogmus/)
+
 
 **Languages and Systems:**
 
