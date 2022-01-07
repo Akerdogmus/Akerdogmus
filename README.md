@@ -1,9 +1,6 @@
 ### Welcome to Akerdogmus's Vault 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Akerdogmus&show_icons=true&theme=dark">
-
 ⚡ I am a robotics enthusiast and a life-long learner. Currently, working on verification&validation for autonomous robotic inspection systems.
-
 
 For contact:
 
