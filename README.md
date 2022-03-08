@@ -1,6 +1,6 @@
 ### Welcome to Akerdogmus's Vault 👋
 
-⚡ I am a robotics enthusiast and a life-long learner. Currently, working on verification&validation for autonomous robotic inspection systems.
+⚡ I am a robotics enthusiast and a life-long learner. Currently, working on verification&validation for autonomous robotic inspection systems and creating robotic simulation environment in Unity.
 
 For contact:
 
