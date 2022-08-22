@@ -5,7 +5,7 @@
 For contact:
 
 [![Linkedln_account](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alim-kerem-erdogmus/)
-[![Yahoo account](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)](akerdogmus@yahoo.com)
+[![Gmail account](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akerdogmus.94@gmail.com)
 
 
 **:mechanical_arm::mechanical_arm: Languages and Systems:**
