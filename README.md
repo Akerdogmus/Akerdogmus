@@ -22,3 +22,11 @@ For contact:
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![Tensorflow](https://img.shields.io/badge/tensorflow-%23F5792A.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 </code>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerdogmus&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akerdogmus" /></p>
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akerdogmus&show_icons=true&locale=en&theme=tokyonight" alt="akerdogmus" /></p>
+<br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akerdogmus&&theme=tokyonight" alt="akerdogmus" /></p>
