@@ -2,7 +2,7 @@
 
 ⚡ I am a robotics enthusiast and a life-long learner. Currently, working on verification&validation for autonomous robotic inspection systems, creating robotic simulation environment in Unity and creating some Python-based software tools.
 
-For contact:
+**:mailbox::mailbox: For Contact:**
 
 [![Linkedln_account](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alim-kerem-erdogmus/)
 [![Gmail account](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akerdogmus.94@gmail.com)
@@ -23,10 +23,12 @@ For contact:
 [![Tensorflow](https://img.shields.io/badge/tensorflow-%23F5792A.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 </code>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerdogmus&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akerdogmus" /></p>
+**:chart_with_upwards_trend::chart_with_upwards_trend: Stats:**
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akerdogmus&show_icons=true&locale=en&theme=tokyonight" alt="akerdogmus" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akerdogmus&&theme=tokyonight" alt="akerdogmus" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerdogmus&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akerdogmus" /></p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akerdogmus&show_icons=true&locale=en&theme=tokyonight" alt="akerdogmus" /></p>
-<br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akerdogmus&&theme=tokyonight" alt="akerdogmus" /></p>
