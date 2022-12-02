@@ -5,7 +5,6 @@
 **:mailbox::mailbox: For Contact:**
 
 [![Linkedln_account](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alim-kerem-erdogmus/)
-[![Gmail account](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akerdogmus.94@gmail.com)
 
 
 **:mechanical_arm::mechanical_arm: Languages and Systems:**
