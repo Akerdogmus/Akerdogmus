@@ -19,8 +19,6 @@
 **:runner::runner: In Learning Process:**
 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![Tensorflow](https://img.shields.io/badge/tensorflow-%23F5792A.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-</code>
 
 **:chart_with_upwards_trend::chart_with_upwards_trend: Stats:**
 
