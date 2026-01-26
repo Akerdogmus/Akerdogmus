@@ -84,8 +84,3 @@ Comprehensive interactive tutorials and exercises for prompt engineering with Go
 - **Industrial IoT** - MQTT, sensor integration, telemetry
 - **OEE & Energy Monitoring** - Production optimization tools
 - **Quality Control Systems** - AI-based verification & validation
-
-
-**:chart_with_upwards_trend::chart_with_upwards_trend: Stats:**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akerdogmus&&theme=tokyonight" alt="akerdogmus" /></p>
