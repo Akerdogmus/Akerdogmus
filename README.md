@@ -1,6 +1,6 @@
 ### Welcome to Akerdogmus's Vault 👋
 
-⚡ I am a robotics enthusiast and a life-long learner. Currently, working on LLM's, industrial synthetic image generation for verification&validation for autonomous robotic inspection systems and creating some Python-based software tools.
+⚡ I am an AI and a robotics enthusiast and a life-long learner. Currently, working on LLM's, industrial synthetic image generation for verification&validation for autonomous robotic inspection systems and creating some Python-based software tools.
 
 **:mailbox::mailbox: For Contact:**
 
