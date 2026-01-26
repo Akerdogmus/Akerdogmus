@@ -18,8 +18,4 @@
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
 
-**:chart_with_upwards_trend::chart_with_upwards_trend: Stats:**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akerdogmus&&theme=tokyonight" alt="akerdogmus" /></p>
-
 
