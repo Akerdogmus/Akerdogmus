@@ -18,4 +18,74 @@
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
 
+## 🚀 Featured Projects
 
+### [HAMER - Educational Robot Platform](https://github.com/Akerdogmus/hamer)
+![Stars](https://img.shields.io/github/stars/Akerdogmus/hamer?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/hamer?style=social)
+
+A comprehensive ROS-based educational robotics platform with full simulation, navigation, and SLAM capabilities. Includes multiple subpackages for hardware control, visualization, and autonomous navigation.
+
+**Tech Stack:** ROS (Melodic/Noetic), Gazebo, Python, C++
+
+---
+
+### [Industrial AI Nexus](https://github.com/Akerdogmus/industrial-ai-nexus)
+Browser-based industrial AI simulation and visualization platform for modern manufacturing facilities. Features predictive maintenance, OEE tracking, energy monitoring, and AI-powered insights - all running client-side.
+
+**Tech Stack:** TypeScript, React, Three.js, Machine Learning
+
+---
+
+### [Forklift Simulator Web](https://github.com/Akerdogmus/forklift-simulator-web)
+Realistic physics-based forklift simulator with accurate vehicle dynamics, hydraulic systems, and MQTT integration. Features real-time telemetry and advanced forklift specifications.
+
+**Tech Stack:** JavaScript, Three.js, Physics Simulation, MQTT
+
+---
+
+### [OptiCrewApp](https://github.com/Akerdogmus/OptiCrewApp)
+AI-powered R&D team optimization platform that analyzes team members' expertise and recommends optimal project assignments using LangChain and RAG (Retrieval-Augmented Generation).
+
+**Tech Stack:** Python, Streamlit, LangChain, OpenAI, FAISS
+
+---
+
+### [Interactive Prompt Engineering Exercises](https://github.com/Akerdogmus/interaktif-prompt-muh-alistirmalari)
+![Stars](https://img.shields.io/github/stars/Akerdogmus/interaktif-prompt-muh-alistirmalari?style=social)
+
+Comprehensive interactive tutorials and exercises for prompt engineering with Google Gemini, covering basic to advanced techniques.
+
+**Tech Stack:** Python, Jupyter Notebooks, Google Gemini API
+
+---
+
+## 🎯 Technical Expertise
+
+### 🤖 Robotics & Automation
+- **ROS/ROS2 Development** - Industrial and educational robotics applications
+- **Autonomous Navigation** - SLAM, path planning, and obstacle avoidance
+- **Robot Simulation** - Gazebo, Unity-based simulation environments
+- **Computer Vision** - Object detection, image processing for robotic inspection
+
+### 🧠 AI & Machine Learning
+- **Large Language Models (LLMs)** - Prompt engineering, RAG systems
+- **Predictive Maintenance** - AI-powered industrial monitoring
+- **Synthetic Data Generation** - Image generation for V&V processes
+- **AI-Powered Analytics** - Team optimization and decision support systems
+
+### 💻 Software Development
+- **Backend Development** - Python, C#, RESTful APIs
+- **Frontend Development** - TypeScript, React, Three.js
+- **Simulation & Physics** - Real-time physics engines, 3D visualization
+- **Containerization** - Docker, microservices architecture
+
+### 🏭 Industrial Applications
+- **Digital Twin Development** - Industrial system simulation
+- **Industrial IoT** - MQTT, sensor integration, telemetry
+- **OEE & Energy Monitoring** - Production optimization tools
+- **Quality Control Systems** - AI-based verification & validation
+
+
+**:chart_with_upwards_trend::chart_with_upwards_trend: Stats:**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akerdogmus&&theme=tokyonight" alt="akerdogmus" /></p>
