@@ -20,16 +20,18 @@
 
 ## 🚀 Featured Projects
 
-### [HAMER - Educational Robot Platform](https://github.com/Akerdogmus/hamer)
-![Stars](https://img.shields.io/github/stars/Akerdogmus/hamer?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/hamer?style=social)
+### [Chat with Blender - MCP Server](https://github.com/Akerdogmus/chat-with-blender)
+![Stars](https://img.shields.io/github/stars/Akerdogmus/chat-with-blender?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/chat-with-blender?style=social)
 
-A comprehensive ROS-based educational robotics platform with full simulation, navigation, and SLAM capabilities. Includes multiple subpackages for hardware control, visualization, and autonomous navigation.
+A Blender MCP (Model Context Protocol) server that enables AI-powered 3D modeling and scene design through conversational interfaces. Seamlessly integrate Claude or LMStudio LLM models to perform modeling, scene composition, and design tasks in Blender via natural language commands.
 
-**Tech Stack:** ROS (Melodic/Noetic), Gazebo, Python, C++
+**Tech Stack:** Python, Blender API, MCP Protocol, Claude/LMStudio Integration
 
 ---
 
 ### [Industrial AI Nexus](https://github.com/Akerdogmus/industrial-ai-nexus)
+![Stars](https://img.shields.io/github/stars/Akerdogmus/industrial-ai-nexus?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/industrial-ai-nexus?style=social)
+
 Browser-based industrial AI simulation and visualization platform for modern manufacturing facilities. Features predictive maintenance, OEE tracking, energy monitoring, and AI-powered insights - all running client-side.
 
 **Tech Stack:** TypeScript, React, Three.js, Machine Learning
@@ -37,6 +39,8 @@ Browser-based industrial AI simulation and visualization platform for modern man
 ---
 
 ### [Forklift Simulator Web](https://github.com/Akerdogmus/forklift-simulator-web)
+![Stars](https://img.shields.io/github/stars/Akerdogmus/forklift-simulator-web?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/forklift-simulator-web?style=social)
+
 Realistic physics-based forklift simulator with accurate vehicle dynamics, hydraulic systems, and MQTT integration. Features real-time telemetry and advanced forklift specifications.
 
 **Tech Stack:** JavaScript, Three.js, Physics Simulation, MQTT
@@ -44,6 +48,8 @@ Realistic physics-based forklift simulator with accurate vehicle dynamics, hydra
 ---
 
 ### [OptiCrewApp](https://github.com/Akerdogmus/OptiCrewApp)
+![Stars](https://img.shields.io/github/stars/Akerdogmus/OptiCrewApp?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/OptiCrewApp?style=social)
+
 AI-powered R&D team optimization platform that analyzes team members' expertise and recommends optimal project assignments using LangChain and RAG (Retrieval-Augmented Generation).
 
 **Tech Stack:** Python, Streamlit, LangChain, OpenAI, FAISS
@@ -51,7 +57,7 @@ AI-powered R&D team optimization platform that analyzes team members' expertise 
 ---
 
 ### [Interactive Prompt Engineering Exercises](https://github.com/Akerdogmus/interaktif-prompt-muh-alistirmalari)
-![Stars](https://img.shields.io/github/stars/Akerdogmus/interaktif-prompt-muh-alistirmalari?style=social)
+![Stars](https://img.shields.io/github/stars/Akerdogmus/interaktif-prompt-muh-alistirmalari?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/interaktif-prompt-muh-alistirmalari?style=social)
 
 Comprehensive interactive tutorials and exercises for prompt engineering with Google Gemini, covering basic to advanced techniques.
 
@@ -68,7 +74,7 @@ Comprehensive interactive tutorials and exercises for prompt engineering with Go
 - **Computer Vision** - Object detection, image processing for robotic inspection
 
 ### 🧠 AI & Machine Learning
-- **Large Language Models (LLMs)** - Prompt engineering, RAG systems
+- **Large Language Models (LLMs)** - Prompt engineering, RAG systems, MCP integration
 - **Predictive Maintenance** - AI-powered industrial monitoring
 - **Synthetic Data Generation** - Image generation for V&V processes
 - **AI-Powered Analytics** - Team optimization and decision support systems
