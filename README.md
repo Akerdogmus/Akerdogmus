@@ -26,15 +26,6 @@ Realistic physics-based forklift simulator with accurate vehicle dynamics, hydra
 
 ---
 
-### [OptiCrewApp](https://github.com/Akerdogmus/OptiCrewApp)
-![Stars](https://img.shields.io/github/stars/Akerdogmus/OptiCrewApp?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/OptiCrewApp?style=social)
-
-AI-powered R&D team optimization platform that analyzes team members' expertise and recommends optimal project assignments using LangChain and RAG (Retrieval-Augmented Generation).
-
-**Tech Stack:** Python, Streamlit, LangChain, OpenAI, FAISS
-
----
-
 ### [Interactive Prompt Engineering Exercises](https://github.com/Akerdogmus/interaktif-prompt-muh-alistirmalari)
 ![Stars](https://img.shields.io/github/stars/Akerdogmus/interaktif-prompt-muh-alistirmalari?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/interaktif-prompt-muh-alistirmalari?style=social)
 
