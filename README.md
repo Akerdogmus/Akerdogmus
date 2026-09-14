@@ -6,28 +6,7 @@
 
 [![Linkedln_account](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alim-kerem-erdogmus/)
 
-
-**:mechanical_arm::mechanical_arm: Languages and Systems:**
-
-[![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.ubuntu.com/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)]()
-[![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://www.qt.io)
-[![Docker account](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/akerdogmus)
-[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-
-
 ## 🚀 Featured Projects
-
-### [Chat with Blender - MCP Server](https://github.com/Akerdogmus/chat-with-blender)
-![Stars](https://img.shields.io/github/stars/Akerdogmus/chat-with-blender?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/chat-with-blender?style=social)
-
-A Blender MCP (Model Context Protocol) server that enables AI-powered 3D modeling and scene design through conversational interfaces. Seamlessly integrate Claude or LMStudio LLM models to perform modeling, scene composition, and design tasks in Blender via natural language commands.
-
-**Tech Stack:** Python, Blender API, MCP Protocol, Claude/LMStudio Integration
-
----
 
 ### [Industrial AI Nexus](https://github.com/Akerdogmus/industrial-ai-nexus)
 ![Stars](https://img.shields.io/github/stars/Akerdogmus/industrial-ai-nexus?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/industrial-ai-nexus?style=social)
