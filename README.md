@@ -2,39 +2,6 @@
 
 ⚡ I am an AI and a robotics enthusiast and a life-long learner. Currently, working on LLM's, industrial synthetic image generation for verification&validation for autonomous robotic inspection systems and creating some Python-based software tools.
 
-**:mailbox::mailbox: For Contact:**
-
-[![Linkedln_account](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alim-kerem-erdogmus/)
-
-## 🚀 Featured Projects
-
-### [Industrial AI Nexus](https://github.com/Akerdogmus/industrial-ai-nexus)
-![Stars](https://img.shields.io/github/stars/Akerdogmus/industrial-ai-nexus?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/industrial-ai-nexus?style=social)
-
-Browser-based industrial AI simulation and visualization platform for modern manufacturing facilities. Features predictive maintenance, OEE tracking, energy monitoring, and AI-powered insights - all running client-side.
-
-**Tech Stack:** TypeScript, React, Three.js, Machine Learning
-
----
-
-### [Forklift Simulator Web](https://github.com/Akerdogmus/forklift-simulator-web)
-![Stars](https://img.shields.io/github/stars/Akerdogmus/forklift-simulator-web?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/forklift-simulator-web?style=social)
-
-Realistic physics-based forklift simulator with accurate vehicle dynamics, hydraulic systems, and MQTT integration. Features real-time telemetry and advanced forklift specifications.
-
-**Tech Stack:** JavaScript, Three.js, Physics Simulation, MQTT
-
----
-
-### [Interactive Prompt Engineering Exercises](https://github.com/Akerdogmus/interaktif-prompt-muh-alistirmalari)
-![Stars](https://img.shields.io/github/stars/Akerdogmus/interaktif-prompt-muh-alistirmalari?style=social) ![Forks](https://img.shields.io/github/forks/Akerdogmus/interaktif-prompt-muh-alistirmalari?style=social)
-
-Comprehensive interactive tutorials and exercises for prompt engineering with Google Gemini, covering basic to advanced techniques.
-
-**Tech Stack:** Python, Jupyter Notebooks, Google Gemini API
-
----
-
 ## 🎯 Technical Expertise
 
 ### 🤖 Robotics & Automation
