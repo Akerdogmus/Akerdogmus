@@ -4,12 +4,6 @@
 
 ## 🎯 Technical Expertise
 
-### 🤖 Robotics & Automation
-- **ROS/ROS2 Development** - Industrial and educational robotics applications
-- **Autonomous Navigation** - SLAM, path planning, and obstacle avoidance
-- **Robot Simulation** - Gazebo, Unity-based simulation environments
-- **Computer Vision** - Object detection, image processing for robotic inspection
-
 ### 🧠 AI & Machine Learning
 - **Large Language Models (LLMs)** - Prompt engineering, RAG systems, MCP integration
 - **Predictive Maintenance** - AI-powered industrial monitoring
@@ -17,13 +11,17 @@
 - **AI-Powered Analytics** - Team optimization and decision support systems
 
 ### 💻 Software Development
-- **Backend Development** - Python, C#, RESTful APIs
-- **Frontend Development** - TypeScript, React, Three.js
+- **Backend Development** - Python
 - **Simulation & Physics** - Real-time physics engines, 3D visualization
-- **Containerization** - Docker, microservices architecture
 
 ### 🏭 Industrial Applications
 - **Digital Twin Development** - Industrial system simulation
 - **Industrial IoT** - MQTT, sensor integration, telemetry
 - **OEE & Energy Monitoring** - Production optimization tools
 - **Quality Control Systems** - AI-based verification & validation
+
+### 🤖 Robotics & Automation
+- **ROS/ROS2 Development** - Industrial and educational robotics applications
+- **Autonomous Navigation** - SLAM, path planning, and obstacle avoidance
+- **Robot Simulation** - Gazebo, Unity-based simulation environments
+- **Computer Vision** - Object detection, image processing for robotic inspection
