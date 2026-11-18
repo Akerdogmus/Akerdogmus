@@ -12,15 +12,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alim--kerem--erdogmus-F2B84B?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/alim-kerem-erdogmus/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Alim--Erdogmus-F2B84B?style=flat-square&labelColor=0D1117)](https://www.researchgate.net/profile/Alim-Erdogmus)
 
-`21 publications` · `46 citations` · `h-index 5` · `1 book`
-
 </div>
 
 ---
 
-### Welcome to Akerdogmus's Vault 👋
+## 👋 Welcome to Akerdogmus's Vault
 
-⚡ I am an AI and a robotics enthusiast and a life-long learner. Currently, working on LLM's, industrial synthetic image generation for verification&validation for autonomous robotic inspection systems and creating some Python-based software tools.
+> ⚡ AI & robotics enthusiast and life-long learner — building tools where AI meets the factory floor.
+
+**What I'm working on**
+
+| | |
+|:---:|---|
+| 🧠 | **Large language models** — local and industrial LLM solutions that keep data on-premise |
+| 🖼️ | **Synthetic image generation** — industrial data for verification & validation of autonomous robotic inspection systems |
+| 🐍 | **Python tools** — small, practical software that makes everyday engineering work faster |
 
 ## 🎯 Technical Expertise
 
